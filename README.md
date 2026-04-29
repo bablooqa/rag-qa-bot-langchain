@@ -221,7 +221,7 @@ genai-rag-qa-bot/
 QA Automation Engineer | GenAI Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bablookumar.netlify.app-blue?style=flat-square&logo=netlify)](https://bablookumar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/qababloo/)
 
 ---
 
