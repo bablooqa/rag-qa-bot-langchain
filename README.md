@@ -17,6 +17,19 @@
 
 ---
 
+## 🚀 Live Demo
+ 
+> **No setup needed — run it directly in your browser!**
+ 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UDlGI99L5I_08xsCI2PiCp1IgbbneehR?usp=sharing)
+ 
+👉 **[Click here to open in Google Colab](https://colab.research.google.com/drive/1UDlGI99L5I_08xsCI2PiCp1IgbbneehR?usp=sharing)**
+ 
+1. Open the Colab link above
+2. Run all cells (`Runtime → Run All`)
+3. Upload a PDF and start asking questions!
+---
+
 ## ✨ Features
 
 | Feature | Description |
@@ -125,7 +138,7 @@ os.environ["MISTRAL_API_KEY"] = "your_api_key_here"
 ## ▶️ Run the Application
 
 ```bash
-python app.py
+intelligent-document-qa-bot.ipynb
 ```
 
 Then open your browser at `http://localhost:7860`
